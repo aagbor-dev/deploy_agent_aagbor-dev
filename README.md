@@ -101,3 +101,5 @@ Only what had been created at the moment of the interrupt. When interrupted at t
 - Ran `--archive` and checked the timestamped files with `ls -R archives`, then ran it again to confirm the "does not exist" case is handled.
 - Tested Ctrl+C and Ctrl+Z as described above.
 
+VIDEO LINK
+
